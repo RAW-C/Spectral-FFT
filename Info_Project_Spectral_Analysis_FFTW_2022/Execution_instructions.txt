@@ -1,0 +1,10 @@
+You have to install the library pyfftw for python: 
+pip3 install pyfftw
+
+There are 4 files containing jupyter notebooks with codes in python :
+It is better to execute cell after cell in order to go faster. 
+Also for the Poisson_static-grav-field, there is a computation at the end of
+the code file corresponding to a straightforward calculation of the potential
+and the calculation cost a lot in terms of operations so execute this particular
+cell waiting for (around 20 minutes) and if it takes too long time then use the file
+containing the stored exact calculation. 
